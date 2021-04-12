@@ -2,19 +2,7 @@
   "array": [
     {
       "id": "00027ded-e4c4-4f4a-b8c2-9312b57cc65b",
-      "name": "teste",
-      "description": "teste",
-      "type": "teste",
-      "healthPoints": "teste",
-      "specialAttack": "teste",
-      "defense": "teste",
-      "attack": "teste",
-      "experience": "teste",
-      "specialDefense": "teste"
-    },
-    {
-      "id": "00027ded-e4c4-4f4a-b8c2-9312b57cc65b",
-      "name": "pk1",
+      "name": "testando",
       "description": "melhor pkmon",
       "type": "teste",
       "healthPoints": "infinity",
@@ -23,6 +11,30 @@
       "attack": "infinity",
       "experience": "infinity",
       "specialDefense": "infinity"
+    },
+    {
+      "id": "00027ded-e4c4-4f4a-b8c2-9312b57cc65b",
+      "name": "testando",
+      "description": "melhor pkmon",
+      "type": "teste",
+      "healthPoints": "infinity",
+      "specialAttack": "infinity",
+      "defense": "infinity",
+      "attack": "infinity",
+      "experience": "infinity",
+      "specialDefense": "infinity"
+    },
+    {
+      "id": "70df7b39-0c32-48b8-a0d5-c6e2d1bc3b43",
+      "name": null,
+      "description": null,
+      "type": null,
+      "healthPoints": null,
+      "specialAttack": null,
+      "defense": null,
+      "attack": null,
+      "experience": null,
+      "specialDefense": null
     }
   ]
 }
