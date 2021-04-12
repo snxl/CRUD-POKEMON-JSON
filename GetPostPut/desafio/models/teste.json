@@ -1,0 +1,28 @@
+{
+  "array": [
+    {
+      "id": "00027ded-e4c4-4f4a-b8c2-9312b57cc65b",
+      "name": "teste",
+      "description": "teste",
+      "type": "teste",
+      "healthPoints": "teste",
+      "specialAttack": "teste",
+      "defense": "teste",
+      "attack": "teste",
+      "experience": "teste",
+      "specialDefense": "teste"
+    },
+    {
+      "id": "00027ded-e4c4-4f4a-b8c2-9312b57cc65b",
+      "name": "pk1",
+      "description": "melhor pkmon",
+      "type": "teste",
+      "healthPoints": "infinity",
+      "specialAttack": "infinity",
+      "defense": "infinity",
+      "attack": "infinity",
+      "experience": "infinity",
+      "specialDefense": "infinity"
+    }
+  ]
+}
